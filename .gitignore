@@ -1,0 +1,40 @@
+# Build output
+*.class
+**/target/
+build/
+out/
+
+# IDE settings
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.project
+*.classpath
+.settings/
+
+# Logs and temp files
+*.log
+logs/
+*.tmp
+*.temp
+*.swp
+*~
+
+# Archives and generated helpers
+*.zip
+*.tar.gz
+*.rar
+HELP.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dependency caches
+.gradle/
+D/
+
+# Maven wrapper binary
+**/.mvn/wrapper/maven-wrapper.jar
